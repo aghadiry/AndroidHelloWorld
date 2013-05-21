@@ -11,6 +11,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is activity 1" />
+        android:text="New text here!" />
 
 </RelativeLayout>
