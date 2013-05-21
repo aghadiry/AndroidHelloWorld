@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.androidhelloworld.Activity2"
+            android:label="@string/title_activity_activity2" >
+        </activity>
+        <activity
+            android:name="com.example.androidhelloworld.Activity1"
+            android:label="@string/title_activity_activity1" >
+        </activity>
     </application>
 
 </manifest>
